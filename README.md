@@ -1,4 +1,4 @@
-WALMART SLAES ANALYSIS
+WALMART SALES ANALYSIS
 
 Objective
   Analyze weekly sales data to identify key factors influencing revenue.
